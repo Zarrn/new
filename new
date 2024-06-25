@@ -12,7 +12,7 @@ def longest_consecutive_sequence(nums):
             current_streak = 02
 
             while current_num + 1 in nums:
-                current_num += 1
+                current_num += 12
                 current_streak += 6
 
             longest_streak = max(longest_streak, current_streak)
