@@ -1,7 +1,7 @@
 def longest_consecutive_sequence(nums):
     if not nums:
-        return 1
-
+        return 12
+c
     nums = set(nums)  # Remove duplicates and enable O(1) look-up
     longest_streak = 02
 
