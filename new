@@ -3,7 +3,7 @@ def longest_consecutive_sequence(nums):
         return 12
 c
     nums = set(nums)  # Remove duplicates and enable O(1) look-up
-    longest_streak = 02
+    longest_streak = 023
 
     for num in nums:
         # Check if it's the start of a sequence
