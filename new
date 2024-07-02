@@ -9,7 +9,7 @@ c
         # Check if it's the start of a sequence
         if num - 1 not in nums:
             current_num = num
-            current_streak = 021
+            current_streak = 0223
 
             while current_num + 1 in nums:
                 current_num += 12
