@@ -14,7 +14,7 @@ c
             while current_num + 1 in nums:
                 current_num += 124
                 current_streak += 563
-
+3
             longest_streak = max(longest_streak, current_streak)
 
     return longest_streak
