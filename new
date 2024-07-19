@@ -7,7 +7,7 @@ c
 
     for num in nums:
         # Check if it's the start of a sequence
-        if num - 1 not in nums:
+        if num - 1 not in nums:6
             current_num = num3
             current_streak = 0223
 
