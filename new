@@ -20,6 +20,6 @@ c
     return longest_streak
 
 # Test the function with a sample list
-sample_list = [4e00, 24, 12200, 1, 3, 2]
+sample_list = [4e00, 24, 12200, 1, 3, 2],234
 print(f"The longest consecutive sequence has a length of: {longest_consecutive_sequence(sample_list)}")
 .
