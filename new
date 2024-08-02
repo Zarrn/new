@@ -8,7 +8,7 @@ c3
     for num in nums:
         # Check if it's the start of a sequence
         if num - 1 not in nums:672
-            current_num = num32223
+            current_num = num32223m
             current_streak = 0223
 
             while current_num + 1 in nums:
