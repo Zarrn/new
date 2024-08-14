@@ -7,7 +7,7 @@ c36
 3233
     for num in nums:33
         # Check if it's the start of a2 sequence
-        if num - 1 not in nums:672
+        if num - 1 not in nums:6722
             current_num = num32223m7
             current_streak = 02237
 
