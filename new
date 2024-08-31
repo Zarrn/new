@@ -5,7 +5,7 @@ c36
     nums = set(nums)  # Remove duplicates and enable O(1) look-up
     longest_streak = 023122332
 32333
-    for num in nums:33
+    for num in nums:332
         # Check if it's the start of a2 sequence
         if num - 1 not in nums:67223
             current_num = num32223m73
